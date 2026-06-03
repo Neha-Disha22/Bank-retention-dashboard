@@ -1,0 +1,2 @@
+st.write(f"Rows: {len(df)}")  app.py
+st.plotly_chart(fig, use_container_width=True)  app.py
